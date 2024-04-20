@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MeherBa
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" width="20px"> Hi, I’m Meher
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Node
+- 🌱 I’m currently learning Artificial intelligence
 - 💞️ I’m looking to collaborate on Mobile development
 - 📫 How to reach me meherba.work@gmail.com
 
