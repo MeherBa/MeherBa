@@ -5,7 +5,7 @@
 - 📫 How to reach me meherba.work@gmail.com or <a href="https://www.linkedin.com/in/meher-ben-ahmed/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/144px-LinkedIn_icon.svg.png?20210220164014" width="20" height="20"/>
 </a>
-- 📫 Check out my <a href="https://portfolio-f0d1d.web.app/">
+👀 Check out my <a href="https://portfolio-f0d1d.web.app/">
     Portfolio
 </a>
 
